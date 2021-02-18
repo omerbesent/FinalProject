@@ -8576,11 +8576,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\OmerBesent\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OmerBesent\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8595,18 +8595,19 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\Business\\Business.csproj"
+            "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\Business\\Business.csproj"
             },
-            "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\Core\\Core.csproj"
+            "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\Core\\Core.csproj"
             },
-            "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\Entities\\Entities.csproj"
             }
           }
         }
@@ -8619,6 +8620,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
@@ -8657,7 +8659,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   },

@@ -37,6 +37,7 @@ namespace WebAPI
             // bu durumlarda AddScoped yada AddTransient kullanýlýr.
             services.AddSingleton<IProductService, ProductManager>();
             services.AddSingleton<IProductDal, EfProductDal>();
+            //services.AddSingleton<IProductDal, EfProductDal>();
 
         }
 

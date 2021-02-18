@@ -5733,11 +5733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\OmerBesent\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OmerBesent\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5752,15 +5752,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\Business\\Business.csproj"
+            "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\Business\\Business.csproj"
             },
-            "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\Entities\\Entities.csproj"
             }
           }
         }
@@ -5773,6 +5774,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -5788,7 +5790,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

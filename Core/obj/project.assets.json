@@ -6205,11 +6205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\OmerBesent\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OmerBesent\\source\\repos\\FinalProject\\Core\\obj\\",
+      "outputPath": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OmerBesent\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6224,6 +6224,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
       },
@@ -6235,6 +6236,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
@@ -6257,7 +6259,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
