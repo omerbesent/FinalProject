@@ -11,3 +11,17 @@ C:\Users\OmerBesent\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.
 C:\Users\OmerBesent\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
 C:\Users\OmerBesent\source\repos\FinalProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
 C:\Users\OmerBesent\source\repos\FinalProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

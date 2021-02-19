@@ -35,8 +35,8 @@ namespace WebAPI
             //örneðin SepetManager içerisinde data tutup database üzerinden çalýþýlmýyorsa AddSingleton ile tek bir Manager oluþacaðýndan -
             //-herkesin sepeti birbirine girer birinde add çalýþtðýda diðer kullanýcýlarda etkilenir.
             // bu durumlarda AddScoped yada AddTransient kullanýlýr.
-            services.AddSingleton<IProductService, ProductManager>();
-            services.AddSingleton<IProductDal, EfProductDal>();
+            //services.AddSingleton<IProductService, ProductManager>();
+            //services.AddSingleton<IProductDal, EfProductDal>();
             //services.AddSingleton<IProductDal, EfProductDal>();
 
         }

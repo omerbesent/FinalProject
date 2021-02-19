@@ -140,7 +140,6 @@ C:\Users\OmerBesent\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Dat
 C:\Users\OmerBesent\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
 C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
 C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
 C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
@@ -278,3 +277,9 @@ C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\obj\Debug\netcoreapp3.1
 C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
