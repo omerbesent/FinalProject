@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "VeRirm5cFNDFFlotH3gEW4O4YrmcG0uo6aGehvS00fYc1Hce6c6UJQADxrEXyxoUjvmeZyB9VF6R6MIZYeemoQ==",
+  "dgSpecHash": "957EN2vlbbx7vsoeejBHEGlMDUm2EKRafDBLNGIz9hEiPKH3HrNcaE8cPif+PsJiSgz/3lf3THBIxsDBQJwz4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\OmerBesent\\Documents\\GitHub\\FinalProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OmerBesent\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\OmerBesent\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\OmerBesent\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\OmerBesent\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\OmerBesent\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
     "C:\\Users\\OmerBesent\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\OmerBesent\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\OmerBesent\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
