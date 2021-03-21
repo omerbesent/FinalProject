@@ -126,3 +126,9 @@ C:\Users\OmerBesent\Documents\GitHub\FinalProject\ConsoleUI\obj\Debug\netcoreapp
 C:\Users\OmerBesent\Documents\GitHub\FinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
 C:\Users\OmerBesent\Documents\GitHub\FinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
 C:\Users\OmerBesent\Documents\GitHub\FinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll

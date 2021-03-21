@@ -284,3 +284,4 @@ C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\obj\Debug\netcoreapp3.1
 C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
 C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
 C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\OmerBesent\Documents\GitHub\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
