@@ -17,8 +17,10 @@ namespace Business.DependencyResolvers.Autofac
         protected override void Load(ContainerBuilder builder)
         {
             // bu bir method gerekli configurasyonlara göre Production veya Test gibi neyi nerden ne kulanacağını belirtebiliriz.
-            builder.RegisterType<ProductManager>().As<IProductService>().SingleInstance();
+            builder.RegisterType<ProductManager>().As<IProductServices>().SingleInstance();
             builder.RegisterType<EfProductDal>().As<IProductDal>().SingleInstance();
+            builder.RegisterType<CategoryManager>().As<ICategoryService>().SingleInstance();
+            builder.RegisterType<EfCategoryDal>().As<ICategoryDal>().SingleInstance();
 
             var assembly = System.Reflection.Assembly.GetExecutingAssembly();
 

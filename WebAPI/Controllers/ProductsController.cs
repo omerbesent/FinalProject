@@ -20,9 +20,9 @@ namespace WebAPI.Controllers
         //Loosely coupled -- gevşek/esnek bağımlılık
         //naming convention
         //IoC Container -- Inversion of Control
-        IProductService _productService;
+        IProductServices _productService;
         //Dependency injection
-        public ProductsController(IProductService productService)
+        public ProductsController(IProductServices productService)
         {
             _productService = productService;
         }

@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Business.Abstract
 {
-    public interface IProductService
+    public interface IProductServices
     {
         IDataResult<List<Product>> GetAll();
         IDataResult<List<Product>> GetAllByCategoryId(int id);
@@ -15,6 +15,8 @@ namespace Business.Abstract
         IDataResult<List<ProductDetailDto>> GetProductDetails();
         IDataResult<Product> GetById(int produtId);
         IResult Add(Product product);
+        IResult Update(Product product);
+
 
         //RESTFUL --> HTTP -->
     }
