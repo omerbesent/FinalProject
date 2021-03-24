@@ -26,7 +26,7 @@ namespace WebAPI.Controllers
         {
             _productService = productService;
         }
-
+         
         [HttpGet("getall")]
         public IActionResult GetAll()
         {
@@ -57,6 +57,17 @@ namespace WebAPI.Controllers
         public IActionResult Add(Product product)
         {
             var result = _productService.Add(product);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+        }
+
+        [HttpPost("addtransaction")]
+        public IActionResult AddTransaction(Product product)
+        {
+            var result = _productService.AddTransactionTest(product);
             if (result.Success)
             {
                 return Ok(result);

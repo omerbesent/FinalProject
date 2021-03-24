@@ -1,9 +1,7 @@
 ﻿using Core.Utilities.Results;
 using Entities.Concrete;
 using Entities.DTOs;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace Business.Abstract
 {
@@ -17,6 +15,7 @@ namespace Business.Abstract
         IResult Add(Product product);
         IResult Update(Product product);
 
+        IResult AddTransactionTest(Product product);
 
         //RESTFUL --> HTTP -->
     }
